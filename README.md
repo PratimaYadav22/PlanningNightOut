@@ -1,1 +1,2 @@
-# PlanningNightOut
+# Planning Night Out Application
+This application will help users plan an enjoyable evening by selecting a starting location in the city and suggesting nearby restaurants, bars, entertainment venues, and other points of interest. The app will provide detailed information about each location, including reviews, ratings, and recommendations, and allow users to create and share their night out itinerary with friends. 
